@@ -3328,7 +3328,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9343e29f4794da543992b1152b48ea20, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5
+      value: -0.2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9343e29f4794da543992b1152b48ea20, type: 3}
       propertyPath: m_LocalRotation.w
@@ -11897,7 +11897,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Night: 0
   Sun: 1
-  snow: 0
+  Snow: 0
   Rain: 0
   sky:
   - {fileID: 2100000, guid: ec46d2188d4b8774e847e75f1e12a8db, type: 2}
